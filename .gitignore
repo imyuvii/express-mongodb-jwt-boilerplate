@@ -3,4 +3,5 @@ package-lock.json
 .idea
 .DS_Store
 .DS_store
-config/config.js
+app/config/config.js
+/app/config/config.js
